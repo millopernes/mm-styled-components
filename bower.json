@@ -16,7 +16,7 @@
     "styling"
   ],
   "homepage": "https://github.com/styled-components/styled-components",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
