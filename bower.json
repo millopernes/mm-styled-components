@@ -1,0 +1,27 @@
+{
+  "name": "mm-styled-components",
+  "description": "Compiled bower version of styled-components",
+  "main": "dist/styled-components.js",
+  "authors": [
+    "Mil Lopernes"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "css",
+    "css-in-js",
+    "styled-components",
+    "babel-mac:ro",
+    "babel-macros",
+    "styling"
+  ],
+  "homepage": "https://github.com/styled-components/styled-components",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
